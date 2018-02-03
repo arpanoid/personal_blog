@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "./"
 DefaultContentLanguage = "en"
 title = "Arpan Vaidya"
 theme = "beautifulhugo"
@@ -38,7 +38,7 @@ pygmentOptions = "linenos=table"
   name = "Arpan Vaidya"
   website = "yourwebsite.com"
   email = "youremail@domain.com"
-  github = "username"
+  github = "arpanoid"
   linkedin = "username"
 
 [[menu.main]]
