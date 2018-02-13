@@ -36,10 +36,10 @@ pygmentOptions = "linenos=table"
 
 [Author]
   name = "Arpan Vaidya"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  website = "arpanvaidya.com"
+  email = "arpan.vaidya.tech@domain.com"
   github = "arpanoid"
-  linkedin = "username"
+  linkedin = "arpan-vaidya-20ab521a"
 
 [[menu.main]]
     name = "Blog"
