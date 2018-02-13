@@ -1,4 +1,4 @@
-baseurl = "./"
+baseurl = "https://fervent-edison-1c3e4e.netlify.com/"
 DefaultContentLanguage = "en"
 title = "Arpan Vaidya"
 theme = "beautifulhugo"
@@ -52,6 +52,11 @@ pygmentOptions = "linenos=table"
     weight = 3
 
 [[menu.main]]
+    name = "Projects"
+    url = "page/projects/"
+    weight = 3    
+
+[[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 3
+    weight = 4
