@@ -60,6 +60,3 @@ pygmentOptions = "linenos=table"
     name = "Tags"
     url = "tags"
     weight = 4
-
-[context.production.environment]
-  HUGO_VERSION = "0.20"
