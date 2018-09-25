@@ -98,5 +98,6 @@ console.log(it.next())
 
 ### Summary
 First of all, it may take some time to digest Generators as our brain is hard wired to visualize a function which executes fully. There was no such thing as pausable function up until Generators came along( Some languages like python supports this ). So far, we've covered very basics of Generators. In subsequent posts we'll go over 
+
 * Generator calling on another generator and error handling. 
 * Asynchronous programming.
