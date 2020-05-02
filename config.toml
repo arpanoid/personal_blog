@@ -1,15 +1,14 @@
-baseurl = "https://fervent-edison-1c3e4e.netlify.com/"
-DefaultContentLanguage = "en"
+baseURL = "https://fervent-edison-1c3e4e.netlify.com/"
+languageCode = "en-us"
 title = "Arpan Vaidya"
 theme = "beautifulhugo"
-metaDataFormat = "yaml"
-pygmentsStyle = "trac"
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentOptions = "linenos=table"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+
+[Author]
+  name = "Arpan Vaidya"
+  website = "arpanvaidya.com"
+  email = "arpan.vaidya.tech@gmail.com"
+  github = "arpanoid"
+  linkedin = "arpan-vaidya-20ab521a"
 
 [Params]
   subtitle = ""
@@ -20,26 +19,6 @@ pygmentOptions = "linenos=table"
   rss = true
   comments = true
   readingTime = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
-
-[Author]
-  name = "Arpan Vaidya"
-  website = "arpanvaidya.com"
-  email = "arpan.vaidya.tech@gmail.com"
-  github = "arpanoid"
-  linkedin = "arpan-vaidya-20ab521a"
 
 [[menu.main]]
     name = "Blog"
@@ -48,12 +27,12 @@ pygmentOptions = "linenos=table"
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "pages/about/"
     weight = 3
 
 [[menu.main]]
     name = "Projects"
-    url = "page/projects/"
+    url = "pages/projects/"
     weight = 3    
 
 [[menu.main]]
