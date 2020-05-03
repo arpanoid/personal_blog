@@ -2,6 +2,7 @@ baseURL = "https://fervent-edison-1c3e4e.netlify.com/"
 languageCode = "en-us"
 title = "Arpan Vaidya"
 theme = "beautifulhugo"
+googleAnalytics = "UA-165253846-1"
 
 [Author]
   name = "Arpan Vaidya"
