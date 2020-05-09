@@ -1,6 +1,6 @@
 ---
 title: "Book Review: Talking to Stranger"
-subtitle: "or what we should know about estimating project we don’t know"
+subtitle: "Or what we should know about building software for people we don't know."
 date: 2020-05-01T21:24:42-04:00
 tags: ["Book Review", "Software Engineering"]
 draft: false
@@ -8,29 +8,28 @@ draft: false
 
 ## Book Summary: Talking to Strangers
 
-Software estimation, or any project estimation which involves formulating something concrete out of loosely defined abstract ideas, is perhaps the most difficult endeavour for a software team. Most of the times our software fails to deliver and the scope creeps are frequent because a squad, including product owner, software developers and everyone, thinks they understood what this user aka complete stranger wants but rarely is the case.
+Software construction, or any knowledge work which involves formulating something concrete out of loosely defined abstract ideas, is perhaps the most difficult endeavour for a software team. Most of the times, the final product fails to deliver and the scope creeps are frequent because a squad including product owner, software developers and everyone, thinks they understood what this user aka complete stranger wants but rarely is the case.
 
 Here is the famous quote from Steve Jobs which precisely captures this sentiment.  
 
 > “Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.”
 
-We think that a customer wants “A faster horse” with six legs, blue color and capable of having multiple riders but you would need someone like Henry Ford to actually realize customers are not asking for a horse at all.
+We think that a customer wants “A faster horse” with six legs, blue color, and capable of having multiple riders but you would need someone like Henry Ford to actually realize customers are not asking for a horse at all.
 
-Most of the software projects fail, often over budget, under delivered because of following reasons.
+Most of the software projects fail, often over budget, under-delivered because of the following reasons.
 
 * Communication failure between different teams
 * Bad formal, non-formal and functional requirements
 * Unrealistic time frame and almost non-existent risk analysis 
 * Toxic top level management which treats software developers as disposable assets, leading to sweatshop-like environments.  
 
-Now before reading “Talking to Stranger”, I thought them root causes but now I understand that these are just the symptoms. The reality is that “talking to a stranger” is a complex task. Software design is more dependent on human behavioral psychology than  fancy tools or languages. 
-
+Now before reading “Talking to Stranger”, I thought them root causes but now I understand that these are just the symptoms. The reality is that “talking to a stranger” is a complex task. Software design is more dependent on human behavioral psychology than fancy tools or languages. 
 
 ## Truth default theory
 
 “Talk to Strangers” basically argues that humans are terrible at judging strangers and due to evolutionary reasons, we mostly default to the truth. In the book, he describes an experiment where students were asked to fill out a questionnaire and half way through, the experimenter left the room deliberately leaving the answer sheet there for them to cheat. Later they asked the candidates whether they cheated or not. 
 
-Although the experiment was not about cheating but if we can figure out if they’re lying or not just by interacting with them. The video of the interview was shown to a series of control groups which involved normal citizens and law enforcement officers like Police, FBI etc. It turns out, the average detection ratio was only 54%. Which means we, including law enforcement officers, are no better at detecting the lie than just a random coin toss. 
+Although the experiment was not about cheating but if we can figure out if they’re lying or not just by interacting with them. The video of the interview was shown to a series of control groups which involved normal citizens and law enforcement officers from Police, FBI etc. It turns out, the average detection ratio was only 54%. Which means we, including law enforcement officers, are no better at detecting the lie than just a random coin toss. 
 
 This also sheds some light on why we always default to truth and believes that we got the perfect requirements. That a junior developer has figured out all the unknowns and a feature will be delivered in this sprint. That product owner really does know about the value proposition of that shiny new feature is. Because we as humans are hardwired to trust each other. There was an evolutionary advantage in that. 
 
