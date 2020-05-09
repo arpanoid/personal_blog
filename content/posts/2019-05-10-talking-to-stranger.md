@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Talking to Stranger"
+title: "Book Review: Talking to Strangers"
 subtitle: "Or what we should know about building software for people we don't know."
 date: 2020-05-01T21:24:42-04:00
 tags: ["Book Review", "Software Engineering"]
