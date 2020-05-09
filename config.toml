@@ -13,7 +13,7 @@ googleAnalytics = "UA-165253846-1"
 
 [Params]
   subtitle = ""
-  logo = "img/avatar-icon.png"
+  logo = "img/testpattern.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
