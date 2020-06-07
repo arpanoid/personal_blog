@@ -3,9 +3,9 @@ title: "Promises and Microtask queue"
 date: 2020-06-06T16:42:13-04:00
 ---
 
-### Promises execution context 
+### Promises execution order 
 
-Before we dive deep into promises execution context, try to figure out the output of the following piece of code.
+Before we dive deep into promises execution order, try to figure out the output of the following piece of code.
 
 ```java
 console.log("Hello there");
