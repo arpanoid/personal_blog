@@ -51,7 +51,7 @@ if (process.env.RUN_LOCAL === '1') {
 
 Now if the `RUN_LOCAL` is set then it will bring up the app locally. When it is deployed to cloud, this env is not set but instead a separate handler is exported which will be used by serverless setups.
 
-### Changes in task json
+### Add a task in task.json
 
 * Add a task to watch typescript changes for each project. This can be done with vscode's inbuild `tsc-watch`
 
@@ -64,6 +64,8 @@ Now if the `RUN_LOCAL` is set then it will bring up the app locally. When it is 
       "option": "watch"
     },
 ```
+
+### Add a new config in launch.json
 
 * Add a new launch config to attach debugger to the process. For this, I am using `nodemon` to compile and live reload app once the ts changes are successfully compiled by `tsc-watch`.
 
